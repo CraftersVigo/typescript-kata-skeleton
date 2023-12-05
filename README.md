@@ -9,3 +9,7 @@ Run `npm install`
 # Execute tests
 
 Run `npm run test`
+
+# Execute mutant testing
+
+Run `npm run test:mutant`
